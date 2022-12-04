@@ -1,0 +1,23 @@
+{
+  "id": "3807084",
+  "name": "myMusic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "160001",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11476984",
+      "name": "Music 音乐 app图标03",
+      "font_class": "icon-test",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}

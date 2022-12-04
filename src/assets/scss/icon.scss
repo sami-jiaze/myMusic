@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('../fonts/iconfont.woff2?t=1670076137956') format('woff2'),
+       url('../fonts/iconfont.woff?t=1670076137956') format('woff'),
+       url('../fonts/iconfont.ttf?t=1670076137956') format('truetype');
+       font-weight: normal;
+       font-size: normal;
+}
+
+[class^="icon-"],[class*="icon-"]{
+  font-family: 'iconfont' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-music::before{
+  content: "&#xe639;";
+}
