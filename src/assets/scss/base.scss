@@ -6,3 +6,8 @@ user-select: none;
 background: $color-background;
 color: $color-text;
 }
+
+.g-relative {
+  // loading自定义指令
+  position: relative;
+}
